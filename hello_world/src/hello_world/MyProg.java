@@ -1,17 +1,8 @@
 package hello_world;
 
-import java.lang.reflect.Array;
-import java.nio.channels.Pipe;
 import java.util.Arrays;
- import java.util.Random;
+import java.util.Random;
 import java.util.Scanner;
-import java.util.PrimitiveIterator.OfDouble;
-
-import javax.swing.RowFilter;
-import javax.swing.text.html.HTMLDocument.HTMLReader.IsindexAction;
-
-import org.omg.IOP.IORHelper;
-import org.omg.PortableServer.ServantActivator;
 
 //*************************------------------------------****************************-----------------------
 
@@ -25,7 +16,7 @@ import org.omg.PortableServer.ServantActivator;
 public class MyProg {
 	public static void main(String[] args) {
 		
-		System.out.println("asd ");
+		System.out.println(" test ");
 		
 	}
 	
